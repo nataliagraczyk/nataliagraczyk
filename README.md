@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @nataliagraczyk
-- 🌱 I’m currently learning R/Shiny
-
-
+- 🌱 I’m currently learning Python & Data Analysis
+- 🔭 See my last project: https://github.com/nataliagraczyk/bigfive-project
